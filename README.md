@@ -1,2 +1,2 @@
 # IM
-基于websocket实现即时聊天系统
+基于socket实现即时聊天系统
